@@ -15,10 +15,11 @@
 - [4. Executive Summary](#4.-Executive-Summary)
   - [Summary](#4.1-Summary)
   - [Issues Found](#4.2-Issues-Found)
+  - [Qualitative Analysis](#4.3-Qualitative-Analysis)
+  - [Decentralization Score](#4.4-Decentralization-Score)
 - [5. Scope](#5.-Scope)
-- [6. Roles & Assumptions](#6.-Roles-and-Assumptions)
+- [6. Roles](#6.-Roles)
   - [Roles](#6.1-Roles)
-  - [Assumptions](#6.2-Assumptions)
 - [7. System Overview](#7.-System-Overview)
 - [8. Findings](#8.-Findings)
   - [Critical](#8.1.-Critical)
@@ -27,7 +28,9 @@
   - [Low](#8.4-Low)
   - [Gas Optimization](#8.5-Gas-Optimization)
   - [Informational](#8.6-Informational)
-- [9. Conclusion](#9.-Conclusion)
+- [9. Additional Reccomendations](#9.-Additional-Reccomendations)
+- [10. Centralization Risks](#10.-Centralization-Risks)
+- [11. Conclusion](#11.-Conclusion)
 
 ## 1. About Kiki
 
@@ -35,7 +38,18 @@ I am an independent smart contract security researcher. With a background in Com
 
 ## 2. Disclaimer
 
-A smart contract security review can never verify the complete absence of vulnerabilities. This is a time, resource and expertise bound effort where I try to find as many vulnerabilities as possible. I can not guarantee 100% security after the review or even if the review will find any problems with your smart contracts.
+> A smart contract security review can never verify the complete absence of vulnerabilities. This is a time, resource and expertise bound effort where I try to find as many vulnerabilities as possible. 
+>
+> This report is not, nor should be considered, an “endorsement” or “disapproval” of any particular project or team. This report is not, nor should be considered, an indication of the economics or value of any “product” or “asset” created by any team or project that contracts Kiki to perform a security assessment. This report does not provide any warranty or guarantee regarding the absolute bug-free nature of the technology analyzed, nor do they provide any indication of the technologies proprietors, business, business model or legal compliance.
+> 
+> This report should not be used in any way to make decisions around investment or involvement with any particular project. This report in no way provides investment advice, nor should be leveraged as investment advice of any sort. This report represents an extensive assessing process intending to help our customers increase the quality of their code while reducing the high level of risk presented by cryptographic tokens and blockchain technology.
+> 
+> Blockchain technology and cryptographic assets present a high level of ongoing risk. Kiki's position is that each company and individual are responsible for their own due diligence and continuous security. Kiki’s goal is to help reduce the attack vectors and the high level of variance associated with utilizing new and consistently changing technologies, and in no way claims any guarantee of security or functionality of the technology we agree to analyze.
+> 
+> The assessment services provided by Kiki is subject to dependencies and under continuing
+> development. You agree that your access and/or use, including but not limited to any services, reports, and materials, will be at your sole risk on an as-is, where-is, and as-available basis. Cryptographic tokens are emergent technologies and carry with them high levels of technical risk and uncertainty. The assessment reports could include false positives, false negatives, and other unpredictable results. The services may access, and depend upon, multiple layers of third-parties.
+> 
+> Notice that smart contracts deployed on the blockchain are not resistant from internal/external exploit. Notice that active smart contract owner privileges constitute an elevated impact to any smart contract’s safety and security. Therefore, Kiki does not guarantee the explicit security of the audited smart contract, regardless of the verdict.
 
 ## 3. Risk Classification
 
@@ -87,6 +101,7 @@ Over the course of "x" days in total. "protocol" engaged with Kiki to review the
 | <b>Audit Timeline</b>    | "Date - Date"                                      |
 | <b>Fix Period</b>        | "Date - Date"                                      |
 | <b>Mitigation Review</b> | "Date - Date"                                      |
+| <b>Mitigation Commit</b>  |      "hash"                                |
 
 ### 4.2 Issues Found
 
@@ -100,23 +115,42 @@ Over the course of "x" days in total. "protocol" engaged with Kiki to review the
 | Informational    |       |       |               |
 | Total            |       |       |               |
 
+
+## 4.3 Qualitative Analysis
+
+
+
+|  Metric |  Rating |  Comment |
+| -------- | -------- | -------- |
+| Code Complexity         |          |          |
+|    Documentation      |          |         |
+|  Best Practices        |          |       |
+
+## 4.4 Decentralization Score
+
+
+The rating represents how decentralized the protocol is. The rating system operates on a scale of 1 -10. 1 Being very centralized, 10 Being very decentralized. 
+
+|  Rating |
+| -------- |
+|    |
 ## 5. Scope
 
-| Files In Scope         |
-| ---------------------- |
-| <i>Contracts ("#")</i> |
-| "file"                 |
-| <i>Abstracts("#")</i>  |
-| "file"                 |
-| <i>Libraries("#")</i>  |
-| "file"                 |
-| <i>Interface("#")</i>  |
-| "file"                 |
-| <i>Constants("#")</i>  |
-| "file"                 |
-| Total ("#")            |
+| Files In Scope         | SLOC    |
+| ---------------------- | --- |
+| <i>Contracts ("#")</i> |     |
+| "file"                 |     |
+| <i>Abstracts("#")</i>  |     |
+| "file"                 |     |
+| <i>Libraries("#")</i>  |     |
+| "file"                 |     |
+| <i>Interface("#")</i>  |     |
+| "file"                 |     |
+| <i>Constants("#")</i>  |     |
+| "file"                 |     |
+| Total ("#")            |     |
 
-## 6. Roles and Assumptions
+## 6. Roles
 
 ### 6.1 Roles
 
@@ -124,11 +158,6 @@ Over the course of "x" days in total. "protocol" engaged with Kiki to review the
   - "Description"
 - "Role"
   - "Description"-
-
-### 6.2 Assumptions
-
-- "Assumption"
-- "Assumption"
 
 ## 7. System Overview
 
@@ -186,12 +215,9 @@ Over the course of "x" days in total. "protocol" engaged with Kiki to review the
 ---
 
 ## [L-01] "name"
+## [L-02] "name"
 
-## Summary
 
-## Vulnerability Detail
-
-## Reccomendation
 
 ---
 
@@ -200,12 +226,7 @@ Over the course of "x" days in total. "protocol" engaged with Kiki to review the
 ---
 
 ## [G-01] "name"
-
-## Summary
-
-## Vulnerability Detail
-
-## Reccomendation
+## [G-02] "name"
 
 ---
 
@@ -214,13 +235,17 @@ Over the course of "x" days in total. "protocol" engaged with Kiki to review the
 ---
 
 ## [I-01] "name"
+## [I-02] "name"
 
-## Summary
 
-## Vulnerability Detail
-
-## Reccomendation
 
 ---
 
-## 9. Conclusion
+## 9. Additional Reccomendations
+"best practices and other considerations"
+
+## 10. Centralization Risks
+"List of centralizations risks users should be aware of"
+
+## 11. Conclusion
+"summary of what was found where the protocols qualitative and decentralization score and what steps could be taken to improve scores."
