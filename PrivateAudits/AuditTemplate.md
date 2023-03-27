@@ -28,7 +28,7 @@
   - [Low](#8.4-Low)
   - [Gas Optimization](#8.5-Gas-Optimization)
   - [Informational](#8.6-Informational)
-- [9. Additional Reccomendations](#9.-Additional-Reccomendations)
+- [9. Additional Recommendations](#9.-Additional-Recommendations)
 - [10. Centralization Risks](#10.-Centralization-Risks)
 - [11. Conclusion](#11.-Conclusion)
 
@@ -66,12 +66,12 @@ I am an independent smart contract security researcher. With a background in Com
 - Medium
   - Only a small amount of funds can be lost or a core functionality of the protocol is affected.
 - Low
-  - Any kind of unexpected behaviour with some of the protocol's functionalities.
+  - Any kind of unexpected behavior with some of the protocol's functionalities.
 
 ### 3.2 Likelihood
 
 - High
-  - Almost certain to happen, easy to perform, or not easy but highly incentivizaed.
+  - Almost certain to happen, easy to perform, or not easy but highly incentivized.
 - Medium
   - Only conditionally possible or incentivized, but still relatively incentivized.
 - Low
@@ -105,7 +105,7 @@ Over the course of "x" days in total. "protocol" engaged with Kiki to review the
 
 ### 4.2 Issues Found
 
-| Severity         | Count | Fixed | Acknowlewdged |
+| Severity         | Count | Fixed | Acknowledged |
 | ---------------- | ----- | ----- | ------------- |
 | Critical         |       |       |               |
 | High             |       |       |               |
@@ -178,7 +178,7 @@ The rating represents how decentralized the protocol is. The rating system opera
 
 ## Vulnerability Detail
 
-## Reccomendation
+## Recommendation
 
 ---
 
@@ -192,7 +192,7 @@ The rating represents how decentralized the protocol is. The rating system opera
 
 ## Vulnerability Detail
 
-## Reccomendation
+## Recommendation
 
 ---
 
@@ -206,7 +206,7 @@ The rating represents how decentralized the protocol is. The rating system opera
 
 ## Vulnerability Detail
 
-## Reccomendation
+## Recommendation
 
 ---
 
@@ -241,11 +241,11 @@ The rating represents how decentralized the protocol is. The rating system opera
 
 ---
 
-## 9. Additional Reccomendations
+## 9. Additional Recommendations
 "best practices and other considerations"
 
 ## 10. Centralization Risks
-"List of centralizations risks users should be aware of"
+"List of centralization risks users should be aware of"
 
 ## 11. Conclusion
 "summary of what was found where the protocols qualitative and decentralization score and what steps could be taken to improve scores."
