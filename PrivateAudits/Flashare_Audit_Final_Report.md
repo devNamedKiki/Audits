@@ -468,5 +468,5 @@ File: Vendor.sol
 
 - Over the course of 3 days, 17 issues were found. 7 were fixed and 10 were acknowledged during the mitigation period.
 - The ownership issue is partially fixed and should be fixed in a future commit. As are some other non-critical issues. 
-- There were many changes made and it is reccomended that this protocol be tested thoroughly on a test net to ensure proper behavior before going to mainnet.
+- There were many changes made and it is reccomended that this protocol be tested thoroughly on a testnet to ensure proper behavior before going to mainnet.
 - The overall code quality during the auditing period was moderate and the decentralization score was low. However fixing the issues found as well as implemeting the additional recommendations would improve the code quality and the decentralization score. 
