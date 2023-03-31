@@ -198,8 +198,8 @@ If this check passes then `amount` requested of `gastoken` gets sent that user.
 
 ## Recommendation
 
-Either explicitly require the correct amount of msg.value or change `amount` to `excpectedAmount` and check that the amount being sent is within an acceptable range of `excpectedAmount`.
- 
+
+ The best way to fix this would be to derive `amount` from the `msg.value`. This would avoid spending extra `msg.value`.
 
 ---
 
