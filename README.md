@@ -26,3 +26,7 @@ Some of my personal security audits, reviews and contributions will be shared he
 | [Attacker can drain fractional tokens from pair](Contests/004-m.md)                             | Medium   | Arithmatic         | Caviar   | NFT AMM         | Code4ena |
 | [Dutch auction getPrice() formula can lead to price reaching 0](Contests/003-h.md)              | High     | Arithmatic         | Escher   | NFT Marketplace | Code4ena |
 | [Funds will be locked in FixedSale.sol if all editions are not sold.](Contests/005-m.md)        | Medium   | Locked Funds       | Escher   | NFT Marketplace | Code4ena |
+
+## Publications 
+
+- [8 Common Smart Contract Vulnerabilities Found Throughout Audit Contest](https://medium.com/@unsnarl_secure/8-common-smart-contract-vulnerabilities-found-throughout-audit-contest-b421b80b08b5)
