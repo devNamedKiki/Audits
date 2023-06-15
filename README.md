@@ -11,10 +11,13 @@ Some of my personal security audits, reviews and contributions will be shared he
 - [Poodl - Dividend Paying Token](GuardianAudits/PoodlAuditTeam2.md)
 
 ## Contest Findings 
-(~12 findings pending)
+(~9 findings pending)
 
 | Vulnerability                                                                                   | Severity | Vulnerability Type | Protocol | Protocol Type   | Platform |
 | ----------------------------------------------------------------------------------------------- | -------- | ------------------ | -------- | --------------- | -------- |
+| [Buyer of club owner can be frontrun by owner of club.](Contests/018.md)                     |  High  |  Frontrunning      |   Footium  |   NFT       | Sherlock |
+| [Unsafe transfer of arbitrary erc20 token](Contests/017.md)                     |  Medium  |  Transfer      |   Footium  |   NFT       | Sherlock |
+| [Unsafe minting of footiumClubs](Contests/016.md)                     |  Medium  |  Minting      |   Footium  |   NFT       | Sherlock |
 | [Royalty recipients will not get fair share of royalties.](Contests/015.md)                     |  Medium  |  Arithmatic      |   Caviar  |   Private Pool       | Code4ena |
 | [ Some ERC20 tokens revert on 0 transfer.](Contests/014.md)                                     |  Medium  |  Weird ERC20      |   Caviar  |   Private Pool       | Code4ena |
 | [Some base tokens will cause revert due to underflow.](Contests/013.md)                         |  Medium  |  Weird ERC20      |   Caviar  |   Private Pool       | Code4ena |
