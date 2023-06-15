@@ -3,6 +3,8 @@
 
 Some of my personal security audits, reviews and contributions will be shared here.
 ## Private Audits
+(~1 report pending)
+
 
 - [Flashare - Decentralized Fund Raiser](PrivateAudits/Flashare_Audit_Final_Report.md)
 ## Guardian Audits
@@ -33,6 +35,12 @@ Some of my personal security audits, reviews and contributions will be shared he
 | [Attacker can drain fractional tokens from pair](Contests/004-m.md)                             | Medium   | Arithmatic         | Caviar   | NFT AMM         | Code4ena |
 | [Dutch auction getPrice() formula can lead to price reaching 0](Contests/003-h.md)              | High     | Arithmatic         | Escher   | NFT Marketplace | Code4ena |
 | [Funds will be locked in FixedSale.sol if all editions are not sold.](Contests/005-m.md)        | Medium   | Locked Funds       | Escher   | NFT Marketplace | Code4ena |
+
+## Bug Bounties
+(~2 findings pending)
+
+| Vulnerability                                                                                   | Severity | Vulnerability Type | Protocol | Protocol Type   | Platform |
+| ----------------------------------------------------------------------------------------------- | -------- | ------------------ | -------- | --------------- | -------- |
 
 ## Publications 
 
