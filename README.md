@@ -1,47 +1,61 @@
 
-# [Kiki's](https://devnamedkiki.github.io/) security audits, reviews, and contributions
+# [Kiki's](https://twitter.com/Kiki_developer) Security Reviews, Bounties and Contributions
 
-Some of my personal security audits, reviews and contributions will be shared here.
-## Private Audits
-(~1 report pending)
+My name is Kiki, and I am an Independent Security Researcher. My work includes performing security reviews with one of the best firms, [Guardian Audits](https://guardianaudits.com/), finding bugs in live contracts through bug bounties, or working directly with protocols via private audits. For inquiries, you can reach me through [Twitter](https://twitter.com/Kiki_developer) or [Telegram](https://t.me/kiki_dev).
 
 
-- [Flashare - Decentralized Fund Raiser](PrivateAudits/Flashare_Audit_Final_Report.md)
 ## Guardian Audits
 
-- [Raisin Labs - Peer to Peer Fundraiser](GuardianAudits/Raisin_Audit.pdf)
-- [Poodl - Dividend Paying Token](GuardianAudits/PoodlAuditTeam2.md)
-
-## Contest Findings 
-(~9 findings pending)
-
-| Vulnerability                                                                                   | Severity | Vulnerability Type | Protocol | Protocol Type   | Platform |
-| ----------------------------------------------------------------------------------------------- | -------- | ------------------ | -------- | --------------- | -------- |
-| [Buyer of club owner can be frontrun by owner of club.](Contests/018.md)                     |  High  |  Frontrunning      |   Footium  |   NFT       | Sherlock |
-| [Unsafe transfer of arbitrary erc20 token](Contests/017.md)                     |  Medium  |  Transfer      |   Footium  |   NFT       | Sherlock |
-| [Unsafe minting of footiumClubs](Contests/016.md)                     |  Medium  |  Minting      |   Footium  |   NFT       | Sherlock |
-| [Royalty recipients will not get fair share of royalties.](Contests/015.md)                     |  Medium  |  Arithmatic      |   Caviar  |   Private Pool       | Code4ena |
-| [ Some ERC20 tokens revert on 0 transfer.](Contests/014.md)                                     |  Medium  |  Weird ERC20      |   Caviar  |   Private Pool       | Code4ena |
-| [Some base tokens will cause revert due to underflow.](Contests/013.md)                         |  Medium  |  Weird ERC20      |   Caviar  |   Private Pool       | Code4ena |
-| [Frontrunning with allowence can cause users to loose funds.](Contests/011-m.md)                |  Medium  |  Frontrunning      |   Surge  |   Lending       | sherlock |
-| [Once reward token is removed users wont have access to their yield.](Contests/010-m.md)        | Medium   | Yield      | Olympus  | SSLV            | Sherlock |
-| [Unbound loop in getLockedFunds() can cause DOS preventing refunds.](Contests/009-h.md)         | High     | DOS                | OpenQ    | Bounty Platform | Sherlock |
-| [Max out nft deposit with low value ones making bounty undesirable.](Contests/008-m.md)         | Medium   | Transfer           | OpenQ    | Bounty Platform | Sherlock |
-| [malicious or paused tokens can cause claiming to fail.](Contests/007-h.md)                     | High     | Transfer           | OpenQ    | Bounty Platform | Sherlock |
-| [Token Address Limit can be reached by sending dust amounts of junk tokens.](Contests/006-m.md) | Medium   | Transfer           | OpenQ    | Bounty Platform | Sherlock |
-| [Unsafe Transfer of arbitrary erc20 tokens.](Contests/001-h.md)                                 | High     | Transfer           | Cooler   | Lending     | Sherlock |
-| [If user repays more than what is owed the function will revert](Contests/002-m.md)             | Medium   | Front-Running      | Cooler   | Lending     | Sherlock |
-| [Yield can be stolen due to delay in syncRewards()](Contests/012.md)                            | Medium   | Arithmatic         | GogoPool   | Liquid Staking         | Code4ena |
-| [Attacker can drain fractional tokens from pair](Contests/004-m.md)                             | Medium   | Arithmatic         | Caviar   | NFT AMM         | Code4ena |
-| [Dutch auction getPrice() formula can lead to price reaching 0](Contests/003-h.md)              | High     | Arithmatic         | Escher   | NFT Marketplace | Code4ena |
-| [Funds will be locked in FixedSale.sol if all editions are not sold.](Contests/005-m.md)        | Medium   | Locked Funds       | Escher   | NFT Marketplace | Code4ena |
+- [Dolomite - GMX V2 Module](https://github.com/GuardianAudits/Audits/blob/main/Dolomite/2024-01-11_Dolomite.pdf)
+- [Umami - GMX V2 Market Index](https://github.com/GuardianAudits/Audits/blob/main/Umami/2024-01-10_Umami.pdf)
+- [Ambit - Borrowing & Lending](https://github.com/GuardianAudits/Audits/blob/main/Ambit/2023-12-06_Ambit.pdf)
+- [Parifi - Decentralized Synthetics Perpetuals Exchange](https://github.com/GuardianAudits/Audits/blob/main/PariFi/2024-01-24_PariFi.pdf)
+- [Orderly - Perpetuals With Off-Chain Order Book ](https://github.com/GuardianAudits/Audits/blob/main/Orderly/2023-10-25_Orderly.pdf)
+- [IVX - Options](https://github.com/GuardianAudits/Audits/blob/main/IVX/09-13-2023-IVX.pdf)
+- [Poolshark - Directional AMM Limit Pool](https://github.com/GuardianAudits/Audits/blob/main/Poolshark/Poolshark_Limit_Audit.pdf)
+- [GMX - Synthetics Perpetual Exchange](https://github.com/GuardianAudits/Audits/blob/main/GMX/2023-05-15_GMX_Synthetics.pdf)
 
 ## Bug Bounties
-(~2 findings pending)
 
-| Vulnerability                                                                                   | Severity | Vulnerability Type | Protocol | Protocol Type   | Platform |
-| ----------------------------------------------------------------------------------------------- | -------- | ------------------ | -------- | --------------- | -------- |
+| Vulnerability                                      | Severity |
+| -------------------------------------------------- | -------- |
+| [ Reward tokens are locked if no claimers at any point during the period](Bounties/012.md) | Medium |
+| [Attacker Can Lock Reward from Users by Claiming for Them](Bounties/011.md) | Medium |
+| [Borrower Can Bypass Credit Cap for Unlimited Borrowing Power](Bounties/010.md) | Medium |
+| [First Depositor Attack For New Vaults](Bounties/009.md) | Critical |
+| [Attacker Can Steal Funds on Swaps](Bounties/008.md) | Critical |
+| [Attacker Can Brick Operations In and Out of GMX](Bounties/007.md) | Medium |
+| [Attacker Can Steal From Options Writers](Bounties/006.md)  | High    |
+| [Attacker Can DoS the Settlement of Options](Bounties/005.md)  | High    |
+| [Attacker Can Buy Option for 0 Premium](Bounties/004.md) | High    |
+| [First Depositor Can Steal Funds From Vault](Bounties/003.md)  | Medium    |
+| [Attacker Can Steal and/or Lock Funds With Elastic Supply Tokens](Bounties/002.md) | Low    |
+| [Attacker Can Front-Run Fund Function to Harvest Rewards Early](Bounties/001.md) | Low    |
 
-## Publications 
 
-- [8 Common Smart Contract Vulnerabilities Found Throughout Audit Contest](https://medium.com/@unsnarl_secure/8-common-smart-contract-vulnerabilities-found-throughout-audit-contest-b421b80b08b5)
+## Contest 
+
+| Contest | Date | Platform | My findings |
+| ------- | ---- | -------- | ----------- |
+|[USSD](https://audits.sherlock.xyz/contests/82/report)|May 2023|Sherlock|[6H, 3M](Contests/ussd)|
+|[Footium](https://audits.sherlock.xyz/contests/71/report)|April 2023|Sherlock|[1H, 2M](Contests/footium)|
+|[Caviar](https://code4rena.com/reports/2023-04-caviar)|April 2023|Code4rena|[3M](Contests/caviar/second)|
+|[Olympus](https://audits.sherlock.xyz/contests/50/report)|February 2023|Sherlock|[1M](Contests/olympus)|
+|[OpenQ](https://audits.sherlock.xyz/contests/39)|February 2023|Sherlock|[1H, 2M](Contests/openq)|
+|[Surge](https://audits.sherlock.xyz/contests/51/report)|February 2023|Sherlock|[1M](Contests/surge)|
+|[Cooler](https://audits.sherlock.xyz/contests/36)|January 2023|Sherlock|[1H, 1M](Contests/cooler)|
+|[Caviar](https://code4rena.com/reports/2022-12-caviar)|December 2022|Code4rena|[1M](Contests/caviar/first)|
+|[GogoPool](https://code4rena.com/reports/2022-12-gogopool)|December 2022|Code4rena|[1M](Contests/gogo_pool)|
+|[Escher](https://code4rena.com/reports/2022-12-escher)|December 2022|Code4rena|[1H, 1M](Contests/escher)|
+
+
+## Other Engagements 
+- Guardian Defender Audits
+    - [Poodl - Dividend Paying Token](Engagements/PoodlAuditTeam2.md)
+    - [Raisin Labs - Peer to Peer Fundraiser](Engagements/Raisin_Audit.pdf)
+
+
+
+## Contributions 
+
+- [OA - Small Platform for security researchers to practice writing PoCs and find vulnerabilites](https://github.com/0xLanterns/OA)
