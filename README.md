@@ -10,7 +10,6 @@ I'm Kiki, currently operating as an Independent Security Researcher. My work inc
 | ----------------------------------- | --   |
 | Rest - Liquid Restaking EigenLayer Integration | January 2023 |
 | [Umami - GMX V2 Market Index](https://github.com/GuardianAudits/Audits/blob/main/Umami/2024-01-10_Umami.pdf)| December 2023|
-| [Umami - GMX V2 Market Index](https://github.com/GuardianAudits/Audits/blob/main/Umami/2024-01-10_Umami.pdf)| December 2023|
 | [Ambit - Borrowing & Lending](https://github.com/GuardianAudits/Audits/blob/main/Ambit/2023-12-06_Ambit.pdf)|November 2023|
 | [Dolomite - GMX V2 Module](https://github.com/GuardianAudits/Audits/blob/main/Dolomite/2024-01-11_Dolomite.pdf)| November 2023|
 | [Parifi - Decentralized Synthetics Perpetuals Exchange](https://github.com/GuardianAudits/Audits/blob/main/PariFi/2024-01-24_PariFi.pdf)| October 2023 |
