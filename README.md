@@ -1,14 +1,18 @@
 
 # [Kiki's](https://twitter.com/Kiki_developer) Security Reviews, Bounties and Contributions
 
-I'm Kiki, currently operating as an Independent Security Researcher. My work includes performing security reviews with one of the best firms, [Guardian Audits](https://guardianaudits.com/), finding bugs in live contracts through bug bounties, or working directly with protocols via private audits. For inquiries, you can reach me through [Twitter](https://twitter.com/Kiki_developer) or [Telegram](https://t.me/kiki_dev).
+I'm Kiki, currently operating as a Security Researcher. My work includes performing security reviews with one of the best firms, [Guardian Audits](https://guardianaudits.com/), working directly with protocols via private audits, and finding bugs in live contracts through bug bounties. For inquiries, you can reach me through [Twitter](https://twitter.com/Kiki_developer) or [Telegram](https://t.me/kiki_dev).
 
 
 ## Guardian Audits
 
 | Report                              | Date |
 | ----------------------------------- | --   |
-| Rest - Liquid Restaking EigenLayer Integration | January 2023 |
+|Undisclosed - Decentralized Spot and Perpetual Exchange|May 2024|
+|Undisclosed - GMX V2 Backed Stablecoin| April 2024|
+|Undisclosed - Staking and Token Migration |March 2024|
+|Undisclosed - GMX V1 Backed Stablecoin|March 2024|
+| [Rest - Liquid Restaking EigenLayer Integration](https://github.com/GuardianAudits/Audits/blob/main/RestFinance/2024-01-26_Rest_Finance.pdf)| January 2024 |
 | [Umami - GMX V2 Market Index](https://github.com/GuardianAudits/Audits/blob/main/Umami/2024-01-10_Umami.pdf)| December 2023|
 | [Ambit - Borrowing & Lending](https://github.com/GuardianAudits/Audits/blob/main/Ambit/2023-12-06_Ambit.pdf)|November 2023|
 | [Dolomite - GMX V2 Module](https://github.com/GuardianAudits/Audits/blob/main/Dolomite/2024-01-11_Dolomite.pdf)| November 2023|
