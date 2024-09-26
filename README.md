@@ -1,13 +1,19 @@
 
 # [Kiki's](https://twitter.com/Kiki_developer) Security Reviews, Bounties and Contributions
 
-I'm Kiki, currently operating as a Security Researcher. My work includes performing security reviews with one of the best firms, [Guardian Audits](https://guardianaudits.com/), working directly with protocols via private audits, and finding bugs in live contracts through bug bounties. For inquiries, you can reach me through [Twitter](https://twitter.com/Kiki_developer) or [Telegram](https://t.me/kiki_dev).
+Currently operating as a Security Researcher. My work includes performing security reviews with one of the top firms, [Guardian Audits](https://guardianaudits.com/), working directly with protocols via private audits, and finding bugs in live contracts through bug bounties. For inquiries, you can reach me through [Twitter](https://twitter.com/Kiki_developer) or [Telegram](https://t.me/kiki_dev).
 
 
 ## Guardian Audits
 
 | Report                              | Date |
 | ----------------------------------- | --   |
+|Undisclosed - Perpetual for Gas Prices| September 2024|
+|[GMX V2 GLV - GM Token Vault](https://github.com/GuardianAudits/Audits/blob/main/GMX/2024-09-03_GMX_GLV.pdf)| September 2024|
+|Undisclosed - GMX V2 Integration Gamma Strategy| August 2024|
+|Undisclosed - Token Launch| July 2024|
+|Undisclosed - Pyth integration| July 2024|
+|Undisclosed - Sythetics Perpetual Exchange| July 2024|
 |Undisclosed - Decentralized Spot and Perpetual Exchange|May 2024|
 |Undisclosed - GMX V2 Backed Stablecoin| April 2024|
 |Undisclosed - Staking and Token Migration |March 2024|
@@ -20,7 +26,7 @@ I'm Kiki, currently operating as a Security Researcher. My work includes perform
 | [Orderly - Perpetuals With Off-Chain Order Book ](https://github.com/GuardianAudits/Audits/blob/main/Orderly/2023-10-25_Orderly.pdf)| October 2023|
 | [IVX - Options](https://github.com/GuardianAudits/Audits/blob/main/IVX/09-13-2023-IVX.pdf)| September 2023|
 | [Poolshark - Directional AMM Limit Pool](https://github.com/GuardianAudits/Audits/blob/main/Poolshark/Poolshark_Limit_Audit.pdf)| July 2023|
-| [GMX - Synthetics Perpetual Exchange](https://github.com/GuardianAudits/Audits/blob/main/GMX/2023-05-15_GMX_Synthetics.pdf)| May 2023|
+| [GMX V2 - Synthetics Perpetual Exchange](https://github.com/GuardianAudits/Audits/blob/main/GMX/2023-05-15_GMX_Synthetics.pdf)| May 2023|
 
 ## Bug Bounties
 
