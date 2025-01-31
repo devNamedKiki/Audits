@@ -1,14 +1,25 @@
 
 # [Kiki's](https://twitter.com/Kiki_developer) Security Reviews, Bounties and Contributions
 
-Currently operating as a Security Researcher. My work includes performing security reviews with one of the top firms, [Guardian Audits](https://guardianaudits.com/), working directly with protocols via private audits, and finding bugs in live contracts through bug bounties. For inquiries, you can reach me through [Twitter](https://twitter.com/Kiki_developer) or [Telegram](https://t.me/kiki_dev).
+Operating as a Security Researcher I have conducted dozens of security reviews with the top security firm [Guardian Audits](https://guardianaudits.com/), as well as through private engagements. Below you will find some of my previous work, to contact me feel free to reach out via [Twitter](https://twitter.com/Kiki_developer) or [Telegram](https://t.me/kiki_dev).
 
+
+## Private Audits
+
+| Report                              | Date |
+| ----------------------------------- | --   |
+|[Ambit Finance -  Lending Protocol](Engagements/Ambit_Finance_Final_Report.pdf) | January 2025|
 
 ## Guardian Audits
 
 | Report                              | Date |
 | ----------------------------------- | --   |
-|Undisclosed - Perpetual for Gas Prices| September 2024|
+|Undisclosed - Galeto Integration | January 2025 |
+|Undisclosed - LayerZero Integration | January 2025|
+|Undisclosed - GMX V2 Market Index | December 2024|
+|Undisclosed - GMX V1 integration | December 2024|
+|[SmarDex - Decentralized Sythnetic Dollar](https://github.com/GuardianAudits/Audits/blob/main/Smardex/12-18-2024_Smardex_USDN.pdf)| December 2024 |
+|[Undisclosed - Perpetual for Gas Prices](https://github.com/GuardianAudits/Audits/blob/main/Undisclosed/2024-09-16_Undisclosed.pdf)| September 2024|
 |[GMX V2 GLV - GM Token Vault](https://github.com/GuardianAudits/Audits/blob/main/GMX/2024-09-03_GMX_GLV.pdf)| September 2024|
 |Undisclosed - GMX V2 Integration Gamma Strategy| August 2024|
 |Undisclosed - Token Launch| July 2024|
@@ -27,6 +38,7 @@ Currently operating as a Security Researcher. My work includes performing securi
 | [IVX - Options](https://github.com/GuardianAudits/Audits/blob/main/IVX/09-13-2023-IVX.pdf)| September 2023|
 | [Poolshark - Directional AMM Limit Pool](https://github.com/GuardianAudits/Audits/blob/main/Poolshark/Poolshark_Limit_Audit.pdf)| July 2023|
 | [GMX V2 - Synthetics Perpetual Exchange](https://github.com/GuardianAudits/Audits/blob/main/GMX/2023-05-15_GMX_Synthetics.pdf)| May 2023|
+
 
 ## Bug Bounties
 
