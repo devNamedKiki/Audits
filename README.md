@@ -1,6 +1,6 @@
 # [Kiki's](https://twitter.com/Kiki_developer) Security Reviews, Bounties and Contributions
 
-For more than 2 years, I’ve helped secure over $2 billion through private audits, bug bounties, and collaborations with top security firms such as [Guardian Audits](https://guardianaudits.com/) and [Enigma Dark](https://www.enigmadark.com/). 
+For more than 2 years, I’ve helped secure over $2 billion through private audits, bug bounties, as welll as collaborations with top security firms such as [Guardian Audits](https://guardianaudits.com/) and [Enigma Dark](https://www.enigmadark.com/). 
 
 I have extensive expertise in securing complex protocols, demonstrated through auditing major projects such as [GMX](https://gmx.io/#/), [Synthetix](https://www.synthetix.io/), [Ethereal](https://www.ethereal.trade/), [Dolomite](https://dolomite.io/), and others.
 
