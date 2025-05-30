@@ -1,8 +1,6 @@
 # [Kiki's](https://twitter.com/Kiki_developer) Security Reviews, Bounties and Contributions
 
-For more than 2 years, I’ve helped secure over $2 billion through private audits, bug bounties, as welll as collaborations with top security firms such as [Guardian Audits](https://guardianaudits.com/) and [Enigma Dark](https://www.enigmadark.com/). 
-
-I have extensive expertise in securing complex protocols, demonstrated through auditing major projects such as [GMX](https://gmx.io/#/), [Synthetix](https://www.synthetix.io/), [Ethereal](https://www.ethereal.trade/), [Dolomite](https://dolomite.io/), and others.
+For more than 2 years, I’ve helped secure over $2 billion through private audits, bug bounties, and primarily collaborations with top security firms such as [Guardian Audits](https://guardianaudits.com/) and [Enigma Dark](https://www.enigmadark.com/). 
 
 Below you’ll find a selection of my previous work. To request an audit, reach me directly via [Telegram](https://t.me/kiki_dev) or [Twitter](https://twitter.com/Kiki_developer).
 
@@ -21,7 +19,11 @@ Below you’ll find a selection of my previous work. To request an audit, reach 
 
 | Report                              | Date |
 | ----------------------------------- | --   |
+|Undisclosed | May 2025|
+|Undisclosed | May 2025|
 |Undisclosed | April 2025|
+|Undisclosed | April 2025|
+
 
 ## Guardian Audits
 
@@ -33,7 +35,7 @@ Below you’ll find a selection of my previous work. To request an audit, reach 
 |[GMX V2 Gasless - Synthetics Perpetual Exchange](https://github.com/GuardianAudits/Audits/blob/main/GMX/2025-02-27_GMX_Gasless.pdf) | January 2025 |
 |[Orderly - Off-Chain Order Book & Liquidity Layer](https://github.com/GuardianAudits/Audits/blob/main/Orderly/2025-02-24_Orderly_Vault.pdf) | January 2025|
 |[Umami - GMX V2 Market Index](https://github.com/GuardianAudits/Audits/blob/main/Umami/2025-01-26_Umami_GMX_PositionManager.pdf) | January 2025|
-| [Umami eGMX - Utility Protocol for Escrowed GMX](https://github.com/GuardianAudits/Audits/blob/main/eGMX/2025-01-22_eGMX.pdf) | December 2024|
+|[Umami eGMX - Utility Protocol for Escrowed GMX](https://github.com/GuardianAudits/Audits/blob/main/eGMX/2025-01-22_eGMX.pdf) | December 2024|
 |[SmarDex - Decentralized Sythnetic Dollar](https://github.com/GuardianAudits/Audits/blob/main/Smardex/12-18-2024_Smardex_USDN.pdf)| December 2024 |
 |[Foil - Perpetual for Gas Prices](https://github.com/GuardianAudits/Audits/blob/main/Foil/2024-10-28_Foil.pdf)| September 2024|
 |[GMX V2 GLV - GM Token Vault](https://github.com/GuardianAudits/Audits/blob/main/GMX/2024-09-03_GMX_GLV.pdf)| September 2024|
@@ -60,6 +62,7 @@ Below you’ll find a selection of my previous work. To request an audit, reach 
 
 | Vulnerability                                      | Date |Protocol Type |Severity |
 | -------------------------------------------------- | --   |------------ | ------- |
+| [Pool Funds can be Siphoned to External Protocol ](Bounties/016.md) | May 2025 | Leveraged Trading | Critical | 
 | [Attacker Can Liquidate All Healthy Positions](Bounties/013.md) | February 2024 | Perpetual | Critical | 
 | [Attacker Can lock all funds](Bounties/015.md) | February 2024 | Perpetual | Medium | 
 | [Reward tokens are locked if no claimers at any point during the period](Bounties/012.md)| January 2024 | Yield Aggregator and LST  | Medium |
