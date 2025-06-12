@@ -9,7 +9,7 @@ Below you’ll find a selection of my previous work. To request an audit, reach 
 | Report                              | Date |
 | ----------------------------------- | --   |
 |[Undisclosed - OFT, Staking, & Vesting](Engagements/) | April 2025|
-|[Undisclosed - Lending Protocol](Engagements/) | March 2025|
+|[Gloop - Lending Protocol](Engagements/3:14:25_Gloop_Final_Report.pdf) | March 2025|
 |[Hyperdrive - Yield Strategies Protocol](Engagements/3:8:25_Hyperdrive_Final_Report.pdf) | March 2025|
 |[Hyperdrive - Yield Strategies Protocol](Engagements/3:5:25_Hyperdrive_Final_Report.pdf) | March 2025|
 |[Ambit Finance - Lending Protocol](Engagements/Ambit_Finance_Final_Report.pdf) | January 2025|
