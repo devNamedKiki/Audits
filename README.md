@@ -1,6 +1,6 @@
 # [Kiki's](https://twitter.com/Kiki_developer) Security Reviews, Bounties and Contributions
 
-For more than 2 years, I’ve helped secure over $2 billion through private audits, bug bounties, and primarily collaborations with top security firms such as [Guardian Audits](https://guardianaudits.com/) and [Enigma Dark](https://www.enigmadark.com/). 
+An Independent Security Researcher and for more than 2 years, I’ve helped secure over $2 billion through private audits, bug bounties, and primarily collaborations with top security firms such as [Guardian Audits](https://guardianaudits.com/) and [Enigma Dark](https://www.enigmadark.com/). 
 
 Below you’ll find a selection of my previous work. To request an audit, reach me directly via [Telegram](https://t.me/kiki_dev) or [Twitter](https://twitter.com/Kiki_developer).
 
