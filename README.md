@@ -29,7 +29,7 @@ To book an audit, reach me directly via [Telegram](https://t.me/kiki_dev) or [Tw
 
 | Private Audits |  |
 |:--------------|:--|
-| [Undisclosed - OFT, Staking, & Vesting](Engagements/)<br><sub>April 2025</sub> | [Hyperdrive - Yield Strategies Protocol](Engagements/3:5:25_Hyperdrive_Final_Report.pdf)<br><sub>March 2025</sub> |
+| [Stable Jack - OFT, Staking, & Vesting](Engagements/)<br><sub>April 2025</sub> | [Hyperdrive - Yield Strategies Protocol](Engagements/3:5:25_Hyperdrive_Final_Report.pdf)<br><sub>March 2025</sub> |
 | [Gloop - Lending Protocol](Engagements/3:14:25_Gloop_Final_Report.pdf)<br><sub>March 2025</sub> | [Ambit Finance - Lending Protocol](Engagements/Ambit_Finance_Final_Report.pdf)<br><sub>January 2025</sub> |
 | [Hyperdrive - Yield Strategies Protocol](Engagements/3:8:25_Hyperdrive_Final_Report.pdf)<br><sub>March 2025</sub> | [Ambit Finance - Lending Protocol](Engagements/4:22:24_Ambit_Final_Report.pdf)<br><sub>April 2024</sub> |
 
