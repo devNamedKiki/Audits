@@ -1,8 +1,8 @@
 # [Kiki's](https://twitter.com/Kiki_developer) Audits, Bounties, and Contributions
 
-An Independent Security Researcher with more than 2 years experience, I've helped secure over **$2 billion** through private audits, bug bounties, and primarily collaborations with top security firms such as [Guardian Audits](https://guardianaudits.com/) and [Enigma Dark](https://www.enigmadark.com/). 
+Independent Security Researcher with more than 2 years experience, I've helped secure over **$2 billion** through private audits, bug bounties, and primarily collaborations with top security firms such as [Enigma Dark](https://www.enigmadark.com/), [Bail Security](https://bailsec.io/), & [Guardian Audits](https://guardianaudits.com/). 
 
-To book an audit, reach me directly via [Telegram](https://t.me/kiki_dev) or [Twitter](https://twitter.com/Kiki_developer).
+To book a private audit, reach me directly via [Telegram](https://t.me/kiki_dev) or [Twitter](https://twitter.com/Kiki_developer).
 
 ## What Others Have To Say
 
@@ -27,18 +27,26 @@ To book an audit, reach me directly via [Telegram](https://t.me/kiki_dev) or [Tw
 
 ## Private Audits
 
-| Private Audits |  |
+| |  |
 |:--------------|:--|
-| [Stable Jack - OFT, Staking, & Vesting](Engagements/)<br><sub>April 2025</sub> | [Hyperdrive - Yield Strategies Protocol](Engagements/3:5:25_Hyperdrive_Final_Report.pdf)<br><sub>March 2025</sub> |
+| [Stable Jack - OFT, Staking, & Vesting](Engagements/4:2:25_StableJack_Final_Report.pdf)<br><sub>April 2025</sub> | [Hyperdrive - Yield Strategies Protocol](Engagements/3:5:25_Hyperdrive_Final_Report.pdf)<br><sub>March 2025</sub> |
 | [Gloop - Lending Protocol](Engagements/3:14:25_Gloop_Final_Report.pdf)<br><sub>March 2025</sub> | [Ambit Finance - Lending Protocol](Engagements/Ambit_Finance_Final_Report.pdf)<br><sub>January 2025</sub> |
 | [Hyperdrive - Yield Strategies Protocol](Engagements/3:8:25_Hyperdrive_Final_Report.pdf)<br><sub>March 2025</sub> | [Ambit Finance - Lending Protocol](Engagements/4:22:24_Ambit_Final_Report.pdf)<br><sub>April 2024</sub> |
 
 ## Enigma Dark
 
-| Enigma Dark |  |
+| |  |
 |:-----------|:--|
+| Undisclosed<br><sub>July 2025</sub>||
 | Undisclosed<br><sub>May 2025</sub> | [Silo V2 - Borowing & Lending](https://x.com/SiloFinance)<br><sub>April 2025</sub> |
 | Undisclosed<br><sub>May 2025</sub> | Undisclosed<br><sub>April 2025</sub> |
+
+## Bail Security
+| |  |
+|:-----------|:--|
+| Undisclosed<br><sub>June 2025</sub>||
+
+
 
 ## Guardian Audits
 
