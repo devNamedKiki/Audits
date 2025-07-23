@@ -76,7 +76,7 @@ To book a private audit, reach me directly via [Telegram](https://t.me/kiki_dev)
 | [Attacker Can lock all funds](Bounties/015.md)<br><sub>February 2024 · Perpetual · Medium</sub> | [Attacker Can Steal From Options Writers](Bounties/006.md)<br><sub>August 2023 · Options Exchange · High</sub> |
 | [Reward tokens Can be Locked](Bounties/012.md)<br><sub>January 2024 · Yield Aggregator and LST · Medium</sub> | [Attacker Can DoS the Settlement of Options](Bounties/005.md)<br><sub>August 2023 · Options Exchange · High</sub> |
 | [Attacker Can Steal Funds With Elastic Supply Tokens](Bounties/002.md)<br><sub>June 2023 · Staking Launchpad · Low</sub> | [Attacker Can Buy Option for 0 Premium](Bounties/004.md)<br><sub>August 2023 · Options Exchange · High</sub> |
-| [Duplicates :( ](Bounties/Duplicates/README.md)<br><sub></sub> |  |
+| [Duplicates :( ](Bounties/Duplicates/README.md)<br><sub></sub>|  |
 
 ## Other Engagements 
 
