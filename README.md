@@ -27,7 +27,7 @@ To book a private audit, reach me directly via [Telegram](https://t.me/kiki_dev)
 
 ## Private Audits
 
-| |  |
+| Reports |  |
 |:--------------|:--|
 | [Stable Jack - OFT, Staking, & Vesting](Engagements/4:2:25_StableJack_Final_Report.pdf)<br><sub>April 2025</sub> | [Hyperdrive - Yield Strategies Protocol](Engagements/3:5:25_Hyperdrive_Final_Report.pdf)<br><sub>March 2025</sub> |
 | [Gloop - Lending Protocol](Engagements/3:14:25_Gloop_Final_Report.pdf)<br><sub>March 2025</sub> | [Ambit Finance - Lending Protocol](Engagements/Ambit_Finance_Final_Report.pdf)<br><sub>January 2025</sub> |
@@ -35,14 +35,14 @@ To book a private audit, reach me directly via [Telegram](https://t.me/kiki_dev)
 
 ## Enigma Dark
 
-| |  |
+| Reports |  |
 |:-----------|:--|
 | Undisclosed<br><sub>July 2025</sub>||
 | Undisclosed<br><sub>May 2025</sub>| [Silo V2 - Borowing & Lending](https://x.com/SiloFinance)<br><sub>April 2025</sub> |
 | Undisclosed<br><sub>May 2025</sub> | Undisclosed<br><sub>April 2025</sub> |
 
 ## Bail Security
-| |  |
+| Reports |  |
 |:-----------|:--|
 | Undisclosed<br><sub>June 2025</sub>||
 
