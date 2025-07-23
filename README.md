@@ -38,7 +38,7 @@ To book a private audit, reach me directly via [Telegram](https://t.me/kiki_dev)
 | |  |
 |:-----------|:--|
 | Undisclosed<br><sub>July 2025</sub>||
-| Undisclosed<br><sub>May 2025</sub> | [Silo V2 - Borowing & Lending](https://x.com/SiloFinance)<br><sub>April 2025</sub> |
+| Undisclosed<br><sub>May 2025</sub>| [Silo V2 - Borowing & Lending](https://x.com/SiloFinance)<br><sub>April 2025</sub> |
 | Undisclosed<br><sub>May 2025</sub> | Undisclosed<br><sub>April 2025</sub> |
 
 ## Bail Security
