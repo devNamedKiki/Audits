@@ -37,19 +37,18 @@ To book a private audit, reach me directly via [Telegram](https://t.me/kiki_dev)
 
 | Reports |  |
 |:-----------|:--|
-| Undisclosed<br><sub>July 2025</sub>||
+| Undisclosed<br><sub>July 2025</sub>|Undisclosed<br><sub>August 2025</sub>|
 | Undisclosed<br><sub>May 2025</sub>| [Silo V2 - Borowing & Lending](https://x.com/SiloFinance)<br><sub>April 2025</sub> |
 | Undisclosed<br><sub>May 2025</sub> | Undisclosed<br><sub>April 2025</sub> |
 
 ## Bail Security
 | Reports |  |
 |:-----------|:--|
-| Undisclosed<br><sub>June 2025</sub>||
+|Undisclosed<br><sub>August 2025</sub>| [Camelot - Launchpad & Options Sales](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Camelot%20-%20Grail%20-%20Final%20Report.pdf)<br><sub>June 2025</sub> |
 
 
 
 ## Guardian Audits
-
 | Reports |  |
 |:----------------|:----------------|
 | [Bracket - Liquid Staking Token](https://2328915316-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FXs79h1Fq9RF5CisvRcu8%2Fuploads%2FFaRAPSHltXHNCTIsWs78%2FBracket%20Rd.2%20-%20LST%20Vault_report.pdf?alt=media&token=f93d5d12-a112-4976-a66d-8f5cb069ef0d)<br><sub>March 2025</sub> | [GMX V2 V2.1 - Perpetual](https://github.com/GuardianAudits/Audits/blob/main/GMX/2024-06-14_GMX_Updates_2.pdf)<br><sub>June 2024</sub> |
@@ -68,9 +67,9 @@ To book a private audit, reach me directly via [Telegram](https://t.me/kiki_dev)
 | [Synthetix V3 - Perpetual](https://github.com/GuardianAudits/Audits/blob/main/Synthetix/2025-03-03_Synthetix_BFP_2.pdf)<br><sub>July 2024</sub> | [GMX V2 - Perpetual](https://github.com/GuardianAudits/Audits/blob/main/GMX/2023-05-15_GMX_Synthetics.pdf)<br><sub>May 2023</sub> |
 
 ## Bug Bounties
-
 | Bug Bounties |  |
 |:-------------|:--|
+| [Miscalculation Will Continuesly Locks Funds in Vault](Bounties/018.md)<br><sub>August 2025 · Vault · High</sub> |[Artificial Deflation of State Variable Will Lock Funds](Bounties/017.md)<br><sub>August 2025 · Vault · High</sub> |
 | [Pool Funds can be Siphoned to External Protocol](Bounties/016.md)<br><sub>May 2025 · Leveraged Trading · Critical</sub> | [Attacker Can Brick Operations In and Out of GMX](Bounties/007.md)<br><sub>January 2024 · Lending & Borrowing · Medium</sub> |
 | [Attacker Can Liquidate All Healthy Positions](Bounties/013.md)<br><sub>February 2024 · Perpetual · Critical</sub> | [First Depositor Can Steal Funds From Vault](Bounties/003.md)<br><sub>November 2023 · Derivatives protocol · Medium</sub> |
 | [Attacker Can lock all funds](Bounties/015.md)<br><sub>February 2024 · Perpetual · Medium</sub> | [Attacker Can Steal From Options Writers](Bounties/006.md)<br><sub>August 2023 · Options Exchange · High</sub> |
@@ -81,13 +80,11 @@ To book a private audit, reach me directly via [Telegram](https://t.me/kiki_dev)
 ## Other Engagements 
 
 ### Guardian Defender Audits
-
 | Guardian Defender Audits |  |
 |:------------------------|:--|
 | [Poodl - Dividend Paying Token](Engagements/PoodlAuditTeam2.md)<br><sub>March 2023</sub> | [Raisin Labs - Peer to Peer Fundraiser](Engagements/Raisin_Audit.pdf)<br><sub>February 2023</sub> |
 
-## Contest 
-
+### Contest 
 | Contest | Date | Platform | My Findings |
 |:--------|:-----|:---------|:------------|
 |[USSD](https://audits.sherlock.xyz/contests/82/report)|May 2023|Sherlock|[8H, 3M](Contests/ussd)|
