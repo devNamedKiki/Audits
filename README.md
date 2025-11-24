@@ -1,6 +1,10 @@
 # [Kiki's](https://twitter.com/Kiki_developer) Audits, Bounties, and Contributions
 
-Independent Security Researcher with more than 2 years experience, I've helped secure over **$2 billion** through private audits, bug bounties, and primarily collaborations with top security firms such as [Enigma Dark](https://www.enigmadark.com/), [Bail Security](https://bailsec.io/), & [Guardian Audits](https://guardianaudits.com/). 
+Independent Security Researcher:    **3+** years experience  • **50+** audits • **15+** bounties. 
+
+
+I've helped secure over $3 billion through independent audits, bug bounties, and primarily collaborations with top security firms such as [Enigma Dark](https://www.enigmadark.com/), [Bail Security](https://bailsec.io/), & [Guardian Audits](https://guardianaudits.com/). 
+
 
 To book a private audit, reach me directly via [Telegram](https://t.me/kiki_dev) or [Twitter](https://twitter.com/Kiki_developer).
 
@@ -13,40 +17,34 @@ To book a private audit, reach me directly via [Telegram](https://t.me/kiki_dev)
 
 ---
 
-> "The detail and clarity that Kiki provides around potential issues is exceptional. It makes the resolution process a breeze."  
->
-> **Cain**  
-> Lead Developer, [Hyperdrive](https://x.com/hyperdrivedefi)
-
----
-
 > "I appreciated the depth that Kiki normally and continuously scrutinized the contracts with. Prior audits I had been a part of felt a bit superficial compared to Kiki's thoroughness in his approach, his thinking, and his explanations of his findings. Kiki was also very collaborative and available as well to answer questions or to brainstorm on fixes. I came out of the audit with a measurably greater confidence in the contracts." 
 >
 > **Honkers**  
 > Lead Developer, [Gloop](https://x.com/gloopfinance)
 
+---
+
+> "The detail and clarity that Kiki provides around potential issues is exceptional. It makes the resolution process a breeze."  
+>
+> **Cain**  
+> Lead Developer, [Hyperdrive](https://x.com/hyperdrivedefi)
+
 ## Private Audits
 
 | Reports |  |
 |:--------------|:--|
-| [Stable Jack - OFT, Staking, & Vesting](Engagements/4:2:25_StableJack_Final_Report.pdf)<br><sub>April 2025</sub> | [Hyperdrive - Yield Strategies Protocol](Engagements/3:5:25_Hyperdrive_Final_Report.pdf)<br><sub>March 2025</sub> |
-| [Gloop - Lending Protocol](Engagements/3:14:25_Gloop_Final_Report.pdf)<br><sub>March 2025</sub> | [Ambit Finance - Lending Protocol](Engagements/Ambit_Finance_Final_Report.pdf)<br><sub>January 2025</sub> |
-| [Hyperdrive - Yield Strategies Protocol](Engagements/3:8:25_Hyperdrive_Final_Report.pdf)<br><sub>March 2025</sub> | [Ambit Finance - Lending Protocol](Engagements/4:22:24_Ambit_Final_Report.pdf)<br><sub>April 2024</sub> |
-
-## Enigma Dark
-
-| Reports |  |
-|:-----------|:--|
-| Undisclosed<br><sub>July 2025</sub>|Undisclosed<br><sub>August 2025</sub>|
-| Undisclosed<br><sub>May 2025</sub>| [Silo V2 - Borowing & Lending](https://x.com/SiloFinance)<br><sub>April 2025</sub> |
-| Undisclosed<br><sub>May 2025</sub> | Undisclosed<br><sub>April 2025</sub> |
-
-## Bail Security
-| Reports |  |
-|:-----------|:--|
-|Undisclosed<br><sub>August 2025</sub>| [Camelot - Launchpad & Options Sales](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Camelot%20-%20Grail%20-%20Final%20Report.pdf)<br><sub>June 2025</sub> |
-
-
+| Undisclosed - OFT & LST <br><sub>Bail Security - November 2025</sub> | Undisclosed - Oracle & Staking<br><sub>Enigma Dark - November 2025</sub> |
+| Undisclosed - CLAMM & Voting Escrow<br><sub>Bail Security - November 2025</sub> |Undisclosed - PancakeSwapV3 Integration <br><sub>Enigma Dark - October 2025</sub>|
+|Undisclosed - Liquid Restaking<br><sub>Bail Security - September 2025</sub> |Undisclosed - Options Sales<br><sub>Bail Security - September 2025</sub>|
+| Undisclosed - Rewards <br><sub>Enigma Dark - September 2025</sub>|Undisclosed - LST <br><sub>Enigma Dark - August 2025</sub>|
+| Undisclosed - Yield Aggregator  <br><sub>Bail Security - August 2025</sub> | Undisclosed - LST <br><sub>Enigma Dark - August 2025</sub>|
+| Undisclosed - Borrowing & Lending<br><sub>Enigma Dark - July 2025</sub>| [Camelot - Launchpad & Options Sales](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Camelot%20-%20Grail%20-%20Final%20Report.pdf)<br><sub>Bail Security - June 2025</sub> |
+| Undisclosed - Borrowing & Lending <br><sub>Enigma Dark - May 2025</sub>| [Silo V2 - Borowing & Lending](https://x.com/SiloFinance)<br><sub>Enigma Dark - April 2025</sub> |
+| Undisclosed - LST <br><sub>Enigma Dark - May 2025</sub> | [Arrakis - Uniswapv4 & PancakeSwapv4 Integration](https://github.com/Enigma-Dark/security-review-reports/blob/main/2025-04_Security_Review_Arrakis_Finance_Arrakis_Modular_PancakeSwap_V4_%26_%20Uniswap_V4_Modules.pdf)<br><sub>Enigma Dark - April 2025</sub> |
+| [Stable Jack - OFT, Staking, & Vesting](Engagements/4:2:25_StableJack_Final_Report.pdf)<br><sub>Independent - April 2025</sub> | [Hyperdrive - Yield Strategies Protocol](Engagements/3:5:25_Hyperdrive_Final_Report.pdf)<br><sub>Independent - March 2025</sub> |
+| [Gloop - Lending Protocol](Engagements/3:14:25_Gloop_Final_Report.pdf)<br><sub>Independent - March 2025</sub> | [Ambit Finance - Lending Protocol](Engagements/Ambit_Finance_Final_Report.pdf)<br><sub>Independent - January 2025</sub> |
+| [Hyperdrive - Yield Strategies Protocol](Engagements/3:8:25_Hyperdrive_Final_Report.pdf)<br><sub>Independent - March 2025</sub> | [Ambit Finance - Lending Protocol](Engagements/4:22:24_Ambit_Final_Report.pdf)<br><sub>Independent - April 2024</sub> |
+| [Poodl - Dividend Paying Token](Engagements/PoodlAuditTeam2.md)<br><sub>Guardian Defender - March 2023</sub> | [Raisin Labs - Peer to Peer Fundraiser](Engagements/Raisin_Audit.pdf)<br><sub>Guardian Defender - February 2023</sub> |
 
 ## Guardian Audits
 | Reports |  |
@@ -69,22 +67,16 @@ To book a private audit, reach me directly via [Telegram](https://t.me/kiki_dev)
 ## Bug Bounties
 | Bug Bounties |  |
 |:-------------|:--|
-| [Miscalculation Will Continuesly Locks Funds in Vault](Bounties/018.md)<br><sub>August 2025 · Vault · High</sub> |[Artificial Deflation of State Variable Will Lock Funds](Bounties/017.md)<br><sub>August 2025 · Vault · High</sub> |
-| [Pool Funds can be Siphoned to External Protocol](Bounties/016.md)<br><sub>May 2025 · Leveraged Trading · Critical</sub> | [Attacker Can Brick Operations In and Out of GMX](Bounties/007.md)<br><sub>January 2024 · Lending & Borrowing · Medium</sub> |
+| [Miscalculation Will Continuesly Locks Funds in Vault](Bounties/018.md)<br><sub>August 2025 · Vault · Medium</sub> |[Artificial Deflation of State Variable Will Lock Funds](Bounties/017.md)<br><sub>August 2025 · Vault · High</sub> |
+| [Pool Funds can be Siphoned to External Protocol](Bounties/016.md)<br><sub>May 2025 · Leveraged Trading · Critical</sub> | [Attacker Can Brick Operations In and Out of GMX V2](Bounties/007.md)<br><sub>January 2024 · Lending & Borrowing · Medium</sub> |
 | [Attacker Can Liquidate All Healthy Positions](Bounties/013.md)<br><sub>February 2024 · Perpetual · Critical</sub> | [First Depositor Can Steal Funds From Vault](Bounties/003.md)<br><sub>November 2023 · Derivatives protocol · Medium</sub> |
 | [Attacker Can lock all funds](Bounties/015.md)<br><sub>February 2024 · Perpetual · Medium</sub> | [Attacker Can Steal From Options Writers](Bounties/006.md)<br><sub>August 2023 · Options Exchange · High</sub> |
 | [Reward tokens Can be Locked](Bounties/012.md)<br><sub>January 2024 · Yield Aggregator and LST · Medium</sub> | [Attacker Can DoS the Settlement of Options](Bounties/005.md)<br><sub>August 2023 · Options Exchange · High</sub> |
 | [Attacker Can Steal Funds With Elastic Supply Tokens](Bounties/002.md)<br><sub>June 2023 · Staking Launchpad · Low</sub> | [Attacker Can Buy Option for 0 Premium](Bounties/004.md)<br><sub>August 2023 · Options Exchange · High</sub> |
 | [Duplicates :( ](Bounties/Duplicates/README.md)<br><sub></sub>|  |
 
-## Other Engagements 
 
-### Guardian Defender Audits
-| Guardian Defender Audits |  |
-|:------------------------|:--|
-| [Poodl - Dividend Paying Token](Engagements/PoodlAuditTeam2.md)<br><sub>March 2023</sub> | [Raisin Labs - Peer to Peer Fundraiser](Engagements/Raisin_Audit.pdf)<br><sub>February 2023</sub> |
-
-### Contest 
+## Contest 
 | Contest | Date | Platform | My Findings |
 |:--------|:-----|:---------|:------------|
 |[USSD](https://audits.sherlock.xyz/contests/82/report)|May 2023|Sherlock|[8H, 3M](Contests/ussd)|
