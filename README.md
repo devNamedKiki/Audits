@@ -1,6 +1,6 @@
 # [Kiki's](https://twitter.com/Kiki_developer) Audits, Bounties, and Contributions
 
-Independent Security Researcher. To book a private audit, reach me directly via [Telegram](https://t.me/kiki_dev)
+To book a private audit, reach me directly via [Telegram](https://t.me/kiki_dev)
 
 * **3+** years experience  
 * **50+** audits  
