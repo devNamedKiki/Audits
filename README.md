@@ -1,12 +1,15 @@
 # [Kiki's](https://twitter.com/Kiki_developer) Audits, Bounties, and Contributions
 
-Independent Security Researcher:    **3+** years experience  • **50+** audits • **15+** bounties. 
+Independent Security Researcher. To book a private audit, reach me directly via [Telegram](https://t.me/kiki_dev)
+
+* **3+** years experience  
+* **50+** audits  
+* **15+** bounties
 
 
 I've helped secure over $3 billion through independent audits, bug bounties, and primarily collaborations with top security firms such as [Enigma Dark](https://www.enigmadark.com/), [Bail Security](https://bailsec.io/), & [Guardian Audits](https://guardianaudits.com/). 
 
-
-To book a private audit, reach me directly via [Telegram](https://t.me/kiki_dev) or [Twitter](https://twitter.com/Kiki_developer).
+---
 
 ## What Others Have To Say
 
