@@ -7,7 +7,7 @@ To book a private audit, reach me directly via [Telegram](https://t.me/kiki_dev)
 * **15+** bounties
 
 
-I've helped secure over $3 billion through independent audits, bug bounties, and primarily collaborations with top security firms such as [Enigma Dark](https://www.enigmadark.com/), [Bail Security](https://bailsec.io/), & [Guardian Audits](https://guardianaudits.com/). 
+I've helped secure over $3 billion through independent audits, bug bounties, and primarily collaborations with top security firms such as [Bail Security](https://bailsec.io/), [Enigma Dark](https://www.enigmadark.com/), [Cyfrin](https://www.cyfrin.io/) , & [Guardian Audits](https://guardianaudits.com/). 
 
 ---
 
