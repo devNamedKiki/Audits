@@ -3,7 +3,7 @@
 To book a private audit, reach me directly via [Telegram](https://t.me/kiki_dev)
 
 * **3+** years experience  
-* **50+** audits  
+* **60+** audits  
 * **15+** bounties
 
 
@@ -36,6 +36,9 @@ I've helped secure over $3 billion through independent audits, bug bounties, and
 
 | Reports |  |
 |:--------------|:--|
+| Undisclosed - Prediction Market & Oracle <br><sub>Cyfrin - March 2026</sub> | Undisclosed - Prediction Market <br><sub>Cyfrin - March 2026</sub> |
+| Undisclosed - Perpetual <br><sub>Cyfrin- March 2026</sub> | Undisclosed - Voting Escrow <br><sub>Bail Security - February 2026</sub> |
+| Undisclosed - Voting Escrow <br><sub>Bail Security - January 2026</sub> | Undisclosed - Aave V3 Integration <br><sub>Bail Security - December 2025</sub> |
 | Undisclosed - OFT & LST <br><sub>Bail Security - November 2025</sub> | Undisclosed - Oracle & Staking<br><sub>Enigma Dark - November 2025</sub> |
 | Undisclosed - CLAMM & Voting Escrow<br><sub>Bail Security - November 2025</sub> |Undisclosed - PancakeSwapV3 Integration <br><sub>Enigma Dark - October 2025</sub>|
 |Undisclosed - Liquid Restaking<br><sub>Bail Security - September 2025</sub> |Undisclosed - Options Sales<br><sub>Bail Security - September 2025</sub>|
@@ -70,7 +73,7 @@ I've helped secure over $3 billion through independent audits, bug bounties, and
 ## Bug Bounties
 | Bug Bounties |  |
 |:-------------|:--|
-| [Miscalculation Will Continuesly Locks Funds in Vault](Bounties/018.md)<br><sub>August 2025 · Vault · Medium</sub> |[Artificial Deflation of State Variable Will Lock Funds](Bounties/017.md)<br><sub>August 2025 · Vault · High</sub> |
+| [Miscalculation Continuesly Locks Funds in Vault](Bounties/018.md)<br><sub>August 2025 · Vault · Medium</sub> |[Artificial Deflation of State Variable Will Lock Funds](Bounties/017.md)<br><sub>August 2025 · Vault · High</sub> |
 | [Pool Funds can be Siphoned to External Protocol](Bounties/016.md)<br><sub>May 2025 · Leveraged Trading · Critical</sub> | [Attacker Can Brick Operations In and Out of GMX V2](Bounties/007.md)<br><sub>January 2024 · Lending & Borrowing · Medium</sub> |
 | [Attacker Can Liquidate All Healthy Positions](Bounties/013.md)<br><sub>February 2024 · Perpetual · Critical</sub> | [First Depositor Can Steal Funds From Vault](Bounties/003.md)<br><sub>November 2023 · Derivatives protocol · Medium</sub> |
 | [Attacker Can lock all funds](Bounties/015.md)<br><sub>February 2024 · Perpetual · Medium</sub> | [Attacker Can Steal From Options Writers](Bounties/006.md)<br><sub>August 2023 · Options Exchange · High</sub> |
