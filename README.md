@@ -3,11 +3,11 @@
 To book a private audit, reach me directly via [Telegram](https://t.me/kiki_dev)
 
 * **3+** years experience  
-* **60+** audits  
+* **70+** audits  
 * **15+** bounties
 
 
-I've helped secure over $3 billion through independent audits, bug bounties, and primarily collaborations with top security firms such as [Bail Security](https://bailsec.io/), [Enigma Dark](https://www.enigmadark.com/), [Cyfrin](https://www.cyfrin.io/) , & [Guardian Audits](https://guardianaudits.com/). 
+I've helped secure over $3 billion through independent audits, bug bounties, and primarily collaborations with top security firms such as [Bail Security](https://bailsec.io/), [Enigma Dark](https://www.enigmadark.com/), [Cyfrin](https://www.cyfrin.io/), & [Guardian Audits](https://guardianaudits.com/). 
 
 ---
 
@@ -36,6 +36,13 @@ I've helped secure over $3 billion through independent audits, bug bounties, and
 
 | Reports |  |
 |:--------------|:--|
+| Undisclosed - Stablecoin <br><sub>Cyfrin - September 2026</sub> | Undisclosed - Privacy <br><sub>Burra Sec - August 2026</sub> |
+| Undisclosed - Privacy <br><sub>Burra Sec - August 2026</sub> | Undisclosed - Privacy <br><sub>Burra Sec - August 2026</sub> |
+| Undisclosed - Borrowing & Lending <br><sub>Cyfrin - July 2026</sub> | Undisclosed - Borrowing & Lending <br><sub>Enigma Dark - June 2026</sub> |
+| Undisclosed - Prediction Market <br><sub>Cyfrin - June 2026</sub> | Undisclosed - Privacy <br><sub>Burra Sec - June 2026</sub> |
+| Undisclosed - Async Vault EIP-7540 <br><sub>Burra Sec - May 2026</sub> | Undisclosed - Type Script Workflows <br><sub>Burra Sec - May 2026</sub> |
+| Undisclosed - Privacy <br><sub>Burra Sec - April 2026</sub> | Undisclosed - Privacy <br><sub>Burra Sec - April 2026</sub> |
+| Undisclosed - RWA <br><sub>Burra Sec - April 2026</sub> | Undisclosed - Adapter <br><sub>Bail Security - March 2026</sub> |
 | Undisclosed - Prediction Market & Oracle <br><sub>Cyfrin - March 2026</sub> | Undisclosed - Prediction Market <br><sub>Cyfrin - March 2026</sub> |
 | Undisclosed - Perpetual <br><sub>Cyfrin- March 2026</sub> | Undisclosed - Voting Escrow <br><sub>Bail Security - February 2026</sub> |
 | Undisclosed - Voting Escrow <br><sub>Bail Security - January 2026</sub> | Undisclosed - Aave V3 Integration <br><sub>Bail Security - December 2025</sub> |
